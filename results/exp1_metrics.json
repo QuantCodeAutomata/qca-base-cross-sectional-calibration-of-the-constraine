@@ -1,0 +1,13 @@
+{
+  "scenario": "2s20s",
+  "epsilon": 1.0,
+  "beta": 0.0,
+  "converged": true,
+  "iterations": 5,
+  "final_grad_norm": 2.088801254185313e-07,
+  "normalization_error": 1.1102230246251565e-16,
+  "X_moment_error": 8.331319543974924e-09,
+  "Y_moment_error": 6.852812532709418e-09,
+  "max_abs_price_error": 1.0613892965916083e-08,
+  "max_abs_vol_error_bps": 0.010398931292697478
+}
